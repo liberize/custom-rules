@@ -130,7 +130,7 @@
 (^|\.)googleapis\.com$
 (^|\.)gravatar\.com$
 (^|\.)gstatic\.com$
-(^|\.)gvt0\.com$
+(^|\.)gvt\d\.com$
 (^|\.)hockeyapp\.net$
 (^|\.)hotmail\.com$
 (^|\.)icons8\.com$
